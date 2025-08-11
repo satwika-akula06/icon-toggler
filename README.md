@@ -20,7 +20,7 @@ A simple web app that displays a list of movies and allows users to toggle a **f
 - **JavaScript (ES6)** – Toggle functionality for favorite icons.
 
 ## 📂 File Structure
-.
+
 ├── index.html # Main HTML file
 
 ├── styles.css # CSS styles
@@ -34,9 +34,9 @@ A simple web app that displays a list of movies and allows users to toggle a **f
 1. Clone this repository or download the ZIP.
    ```bash
    git clone https://github.com/satwika-akula06/favorite-icon-toggler.git
-Open index.html in your browser.
+2. Open index.html in your browser.
 
-Click the heart icon next to a movie to toggle favorite status.
+3. Click the heart icon next to a movie to toggle favorite status.
 
 ## 💡 How It Works
 - Each heart icon is a button with the class .favorite-icon.
